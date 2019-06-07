@@ -1,0 +1,12 @@
+.signInButton {
+    border: 1px solid white;
+    color: white;
+    padding: 10px 0px;
+    width: 95px;
+    display: flex;
+    justify-content: center;
+}
+
+.noMargin {
+    margin: 0;
+}

@@ -1,0 +1,55 @@
+.dashVideo {
+  max-width: 300px;
+  max-height: 250px;
+}
+
+.welcomeText {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 45px;
+}
+
+.statsBox {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.updateProfileButtonBox{
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.updateProfileButton {
+  text-align: center;
+  color: black;
+}
+
+.editVideoButton {
+  text-align: center;
+  color: black;
+}
+
+.videoList {
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.videoUL {
+display: flex;
+flex-wrap: wrap;
+margin-left: 5%;
+margin-right: 5%;
+justify-content: center;
+}
+
+.videoTitle {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.statText {
+  font-size: 14px;
+}
